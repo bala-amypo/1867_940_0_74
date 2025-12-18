@@ -31,7 +31,7 @@ public class Student {
         this.email = email;
        
     }
-    public Student() {
+    public Student() {  
     }
     
 }
